@@ -1,0 +1,9 @@
+{
+    "name": "Musish",
+    "main": "https://musi.sh",
+    "window": {
+        "title": "Musish",
+        "width": 1024,
+        "height": 800
+    }
+}
